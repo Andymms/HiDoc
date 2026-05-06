@@ -26,8 +26,7 @@ HiDoc is a Full-Stack solution designed to digitalize the medical appointment bo
 
 ## 🚀 Development Highlights
 
-* **Business Logic:** Developed algorithms for matching symptoms with medical specialties[cite: 1].
-* **Reactive Frontend:** Used **React Context API** to maintain a smooth global state, enabling navigation without unnecessary reloads[cite: 1].
-* **Data Management:** Optimized database models with SQLAlchemy, including optional field validations to improve user experience[cite: 1].
+* **Business Logic:** Developed algorithms for matching symptoms with medical specialties.
+* **Reactive Frontend:** Used **React Context API** to maintain a smooth global state, enabling navigation without unnecessary reloads.
+* **Data Management:** Optimized database models with SQLAlchemy, including optional field validations to improve user experience.
 
----
